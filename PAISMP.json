@@ -1,0 +1,364 @@
+{
+    "kelas": [
+        {
+            "kelas": "VII",
+            "bab": 1,
+            "judul": "Al-Qur'an dan Sunah sebagai Pedoman Hidup",
+            "elemen": "Al-Qur’an/Hadis",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Al-Qur'an dan Sunah sebagai Pedoman Hidup' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Al-Qur'an dan Sunah sebagai Pedoman Hidup' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Al-Qur'an dan Sunah sebagai Pedoman Hidup' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Al-Qur'an dan Sunah sebagai Pedoman Hidup'."
+            ]
+        },
+        {
+            "kelas": "VII",
+            "bab": 2,
+            "judul": "Meneladan Nama dan Sifat Allah",
+            "elemen": "Akidah",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Meneladan Nama dan Sifat Allah' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Meneladan Nama dan Sifat Allah' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Meneladan Nama dan Sifat Allah' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Meneladan Nama dan Sifat Allah'."
+            ]
+        },
+        {
+            "kelas": "VII",
+            "bab": 3,
+            "judul": "Menghadirkan Salat dan Zikir",
+            "elemen": "Fikih",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Menghadirkan Salat dan Zikir' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Menghadirkan Salat dan Zikir' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Menghadirkan Salat dan Zikir' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Menghadirkan Salat dan Zikir'."
+            ]
+        },
+        {
+            "kelas": "VII",
+            "bab": 4,
+            "judul": "Mengagungkan Allah Swt.",
+            "elemen": "Akhlak/Akidah",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Mengagungkan Allah Swt.' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Mengagungkan Allah Swt.' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Mengagungkan Allah Swt.' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Mengagungkan Allah Swt.'."
+            ]
+        },
+        {
+            "kelas": "VII",
+            "bab": 5,
+            "judul": "Damaskus: Pusat Peradaban Timur Islam",
+            "elemen": "Sejarah",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Damaskus: Pusat Peradaban Timur Islam' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Damaskus: Pusat Peradaban Timur Islam' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Damaskus: Pusat Peradaban Timur Islam' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Damaskus: Pusat Peradaban Timur Islam'."
+            ]
+        },
+        {
+            "kelas": "VII",
+            "bab": 6,
+            "judul": "Alam Semesta sebagai Tanda Kekuasaan Allah",
+            "elemen": "Akidah/Al-Qur’an",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Alam Semesta sebagai Tanda Kekuasaan Allah' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Alam Semesta sebagai Tanda Kekuasaan Allah' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Alam Semesta sebagai Tanda Kekuasaan Allah' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Alam Semesta sebagai Tanda Kekuasaan Allah'."
+            ]
+        },
+        {
+            "kelas": "VII",
+            "bab": 7,
+            "judul": "Mawas Diri dan Introspeksi",
+            "elemen": "Akhlak",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Mawas Diri dan Introspeksi' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Mawas Diri dan Introspeksi' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Mawas Diri dan Introspeksi' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Mawas Diri dan Introspeksi'."
+            ]
+        },
+        {
+            "kelas": "VII",
+            "bab": 8,
+            "judul": "Menghindari Gibah dan Tabayun",
+            "elemen": "Akhlak/Fikih",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Menghindari Gibah dan Tabayun' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Menghindari Gibah dan Tabayun' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Menghindari Gibah dan Tabayun' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Menghindari Gibah dan Tabayun'."
+            ]
+        },
+        {
+            "kelas": "VII",
+            "bab": 9,
+            "judul": "Rukhsah: Kemudahan dalam Beribadah",
+            "elemen": "Fikih",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Rukhsah: Kemudahan dalam Beribadah' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Rukhsah: Kemudahan dalam Beribadah' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Rukhsah: Kemudahan dalam Beribadah' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Rukhsah: Kemudahan dalam Beribadah'."
+            ]
+        },
+        {
+            "kelas": "VII",
+            "bab": 10,
+            "judul": "Andalusia: Peradaban Islam Barat",
+            "elemen": "Sejarah",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Andalusia: Peradaban Islam Barat' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Andalusia: Peradaban Islam Barat' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Andalusia: Peradaban Islam Barat' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Andalusia: Peradaban Islam Barat'."
+            ]
+        },
+        {
+            "kelas": "VIII",
+            "bab": 1,
+            "judul": "Inspirasi Al-Qur'an Melestarikan Alam",
+            "elemen": "Al-Qur’an/Hadis",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Inspirasi Al-Qur'an Melestarikan Alam' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Inspirasi Al-Qur'an Melestarikan Alam' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Inspirasi Al-Qur'an Melestarikan Alam' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Inspirasi Al-Qur'an Melestarikan Alam'."
+            ]
+        },
+        {
+            "kelas": "VIII",
+            "bab": 2,
+            "judul": "Meyakini Kitab-Kitab Allah",
+            "elemen": "Akidah/Al-Qur’an",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Meyakini Kitab-Kitab Allah' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Meyakini Kitab-Kitab Allah' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Meyakini Kitab-Kitab Allah' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Meyakini Kitab-Kitab Allah'."
+            ]
+        },
+        {
+            "kelas": "VIII",
+            "bab": 3,
+            "judul": "Amanah dan Jujur",
+            "elemen": "Akhlak",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Amanah dan Jujur' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Amanah dan Jujur' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Amanah dan Jujur' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Amanah dan Jujur'."
+            ]
+        },
+        {
+            "kelas": "VIII",
+            "bab": 4,
+            "judul": "Salat Gerhana, Istiska, Jenazah",
+            "elemen": "Fikih",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Salat Gerhana, Istiska, Jenazah' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Salat Gerhana, Istiska, Jenazah' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Salat Gerhana, Istiska, Jenazah' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Salat Gerhana, Istiska, Jenazah'."
+            ]
+        },
+        {
+            "kelas": "VIII",
+            "bab": 5,
+            "judul": "Abbasiyah & Literasi Ilmiah",
+            "elemen": "Sejarah",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Abbasiyah & Literasi Ilmiah' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Abbasiyah & Literasi Ilmiah' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Abbasiyah & Literasi Ilmiah' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Abbasiyah & Literasi Ilmiah'."
+            ]
+        },
+        {
+            "kelas": "VIII",
+            "bab": 6,
+            "judul": "Moderasi Beragama",
+            "elemen": "Al-Qur’an/Akhlak",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Moderasi Beragama' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Moderasi Beragama' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Moderasi Beragama' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Moderasi Beragama'."
+            ]
+        },
+        {
+            "kelas": "VIII",
+            "bab": 7,
+            "judul": "Nabi & Rasul",
+            "elemen": "Akidah",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Nabi & Rasul' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Nabi & Rasul' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Nabi & Rasul' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Nabi & Rasul'."
+            ]
+        },
+        {
+            "kelas": "VIII",
+            "bab": 8,
+            "judul": "Toleransi Antar Umat",
+            "elemen": "Akhlak",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Toleransi Antar Umat' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Toleransi Antar Umat' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Toleransi Antar Umat' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Toleransi Antar Umat'."
+            ]
+        },
+        {
+            "kelas": "VIII",
+            "bab": 9,
+            "judul": "Jual Beli & Riba",
+            "elemen": "Fikih/Akhlak",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Jual Beli & Riba' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Jual Beli & Riba' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Jual Beli & Riba' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Jual Beli & Riba'."
+            ]
+        },
+        {
+            "kelas": "VIII",
+            "bab": 10,
+            "judul": "Ilmuwan Muslim Abbasiyah",
+            "elemen": "Sejarah",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Ilmuwan Muslim Abbasiyah' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Ilmuwan Muslim Abbasiyah' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Ilmuwan Muslim Abbasiyah' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Ilmuwan Muslim Abbasiyah'."
+            ]
+        },
+        {
+            "kelas": "IX",
+            "bab": 1,
+            "judul": "Semangat Mencari Ilmu",
+            "elemen": "Al-Qur’an/Hadis",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Semangat Mencari Ilmu' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Semangat Mencari Ilmu' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Semangat Mencari Ilmu' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Semangat Mencari Ilmu'."
+            ]
+        },
+        {
+            "kelas": "IX",
+            "bab": 2,
+            "judul": "Meyakini Hari Akhir",
+            "elemen": "Akidah",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Meyakini Hari Akhir' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Meyakini Hari Akhir' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Meyakini Hari Akhir' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Meyakini Hari Akhir'."
+            ]
+        },
+        {
+            "kelas": "IX",
+            "bab": 3,
+            "judul": "Etika Pergaulan Islami",
+            "elemen": "Akhlak",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Etika Pergaulan Islami' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Etika Pergaulan Islami' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Etika Pergaulan Islami' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Etika Pergaulan Islami'."
+            ]
+        },
+        {
+            "kelas": "IX",
+            "bab": 4,
+            "judul": "Akikah & Kurban",
+            "elemen": "Fikih/Akhlak",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Akikah & Kurban' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Akikah & Kurban' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Akikah & Kurban' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Akikah & Kurban'."
+            ]
+        },
+        {
+            "kelas": "IX",
+            "bab": 5,
+            "judul": "Peradaban Daulah Usmani",
+            "elemen": "Sejarah",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Peradaban Daulah Usmani' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Peradaban Daulah Usmani' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Peradaban Daulah Usmani' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Peradaban Daulah Usmani'."
+            ]
+        },
+        {
+            "kelas": "IX",
+            "bab": 6,
+            "judul": "Khalifatullah fil Ard",
+            "elemen": "Al-Qur’an/Akidah",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Khalifatullah fil Ard' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Khalifatullah fil Ard' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Khalifatullah fil Ard' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Khalifatullah fil Ard'."
+            ]
+        },
+        {
+            "kelas": "IX",
+            "bab": 7,
+            "judul": "Qada dan Qadar",
+            "elemen": "Akidah",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Qada dan Qadar' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Qada dan Qadar' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Qada dan Qadar' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Qada dan Qadar'."
+            ]
+        },
+        {
+            "kelas": "IX",
+            "bab": 8,
+            "judul": "Seni Islami",
+            "elemen": "Akhlak/Sejarah",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Seni Islami' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Seni Islami' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Seni Islami' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Seni Islami'."
+            ]
+        },
+        {
+            "kelas": "IX",
+            "bab": 9,
+            "judul": "Imam Mazhab",
+            "elemen": "Fikih/Sejarah",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Imam Mazhab' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Imam Mazhab' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Imam Mazhab' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Imam Mazhab'."
+            ]
+        },
+        {
+            "kelas": "IX",
+            "bab": 10,
+            "judul": "Syafawi & Mughal",
+            "elemen": "Sejarah",
+            "tp": [
+                "Siswa dapat menganalisis konsep terkait 'Syafawi & Mughal' (C4).",
+                "Siswa dapat mengevaluasi permasalahan terkait 'Syafawi & Mughal' (C5).",
+                "Siswa dapat merancang aksi nyata terkait 'Syafawi & Mughal' (C6).",
+                "Siswa dapat merefleksikan perubahan diri terkait 'Syafawi & Mughal'."
+            ]
+        }
+    ]
+}
